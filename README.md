@@ -1,2 +1,1 @@
-# multipong
-A multiplayer pong game.
+A multiplayer pong game : https://multipong.herokuapp.com/ 
